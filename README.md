@@ -3,3 +3,4 @@
 # (1) to develop a new computational model for 3D direct numerical simulation (DNS) of MCLs on dissolvable solid surfaces, covering both inertial- and diffusion-dominant dissolutive wetting regimes, and resolving nanometer length scales;
 # (2) to develop a novel experimental method using high-speed imaging to directly measure the interface profiles during the dynamic dissolutive wetting line, and then formulate a rigorous theory to relate the dynamic contact angle and interface profiles to system parameters.
 # (3) to formulate a reduced-order macroscale computational model which can save computational effort by at least nine orders of magnitude compared with DNS models in numerical simulation of dissolutive wetting.
+![MCL](https://github.com/jingdalei/MSCAproject-MMDWET/assets/167493013/a77277e5-3810-4f5b-9f78-5d99ca1a88c0)
